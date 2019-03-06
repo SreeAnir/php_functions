@@ -1,2 +1,2 @@
 # php_functions
-This is for learing basic php.
+This is for learning basic php.
